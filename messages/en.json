@@ -1,0 +1,233 @@
+{
+  "Header": {
+    "pricing": "Pricing",
+    "generateVideo": "Generate Video",
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+  "LoginModal": {
+    "title": "Sign In",
+    "github": "Sign in with GitHub",
+    "google": "Sign in with Google"
+  },
+  "HeroSection": {
+    "title": "Create Stunning Videos with",
+    "brandName": "Sora2 (Independent)",
+    "description": "Create with Sora2 — an independent, third-party tool inspired by OpenAI technology. Generate cinema-quality videos from text and images with our advanced AI model.",
+    "ctaButton": "Start Creating with Sora2"
+  },
+  "FeaturesSection": {
+    "title": "Why Choose Sora2 AI Video Generator",
+    "description": "Revolutionary OpenAI Sora2 technology meets professional video creation. Experience breakthrough physics simulation, character consistency, and cinema-quality output for content creators worldwide.",
+    "features": {
+      "openai": {
+        "title": "OpenAI Sora2 Technology",
+        "description": "Powered by OpenAI's most advanced video generation model with revolutionary physics understanding."
+      },
+      "cinema": {
+        "title": "Cinema-Quality Output",
+        "description": "Generate professional 1080p videos up to 10 seconds with perfect character consistency."
+      },
+      "physics": {
+        "title": "Advanced Physics Simulation",
+        "description": "Realistic object movement, natural lighting, and complex scene understanding."
+      },
+      "textImage": {
+        "title": "Text & Image to Video",
+        "description": "Transform any text prompt or image into stunning video content instantly."
+      },
+      "aspectRatios": {
+        "title": "Multiple Aspect Ratios",
+        "description": "Support for 16:9, 9:16, and 1:1 formats perfect for any platform."
+      },
+      "quality": {
+        "title": "Professional Quality",
+        "description": "Broadcast-ready output with consistent character appearance throughout videos."
+      },
+      "scenes": {
+        "title": "Complex Scene Generation",
+        "description": "Handle multiple subjects, intricate backgrounds, and sophisticated camera movements."
+      },
+      "creator": {
+        "title": "Creator-Focused Design",
+        "description": "Intuitive interface designed for content creators, marketers, and video professionals."
+      },
+      "noWatermark": {
+        "title": "Watermark-Free Sora2 Videos",
+        "description": "Generate pristine, professional videos without any watermarks or branding overlays."
+      }
+    }
+  },
+  "FAQSection": {
+    "title": "Sora2 AI Video Generator: Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Sora2 AI video generation technology, powered by OpenAI's revolutionary video creation model. Learn about features, capabilities, pricing, and best practices.",
+    "faqs": {
+      "1": {
+        "question": "What is Sora2 and how does it differ from other AI video generators?",
+        "answer": "Sora2 is OpenAI's breakthrough AI video generation model that creates cinema-quality videos with unprecedented realism. Unlike other generators, Sora2 understands physics, maintains character consistency, and generates complex scenes with multiple subjects, realistic lighting, and natural motion up to 10 seconds long in 1080p quality."
+      },
+      "2": {
+        "question": "What video formats and resolutions does Sora2 support?",
+        "answer": "Sora2 generates professional 1080p videos in multiple aspect ratios: 16:9 (perfect for YouTube and traditional platforms), 9:16 (ideal for TikTok, Instagram Stories, and mobile content), and 1:1 (optimized for social media feeds). Videos can be up to 10 seconds long with consistent quality throughout."
+      },
+      "3": {
+        "question": "How realistic are Sora2's physics simulations?",
+        "answer": "Sora2 features revolutionary physics understanding that accurately simulates real-world phenomena including gravity, fluid dynamics, object interactions, realistic lighting changes, and natural material properties. This results in videos that look incredibly lifelike, with objects moving and behaving exactly as they would in reality."
+      },
+      "4": {
+        "question": "Can Sora2 maintain character consistency across the entire video?",
+        "answer": "Yes! One of Sora2's most impressive features is perfect character consistency. Whether generating from text or images, the same person, object, or character maintains identical appearance, clothing, and features throughout the entire 10-second video, solving a major challenge that other AI video generators struggle with."
+      },
+      "5": {
+        "question": "What types of content can I create with Sora2?",
+        "answer": "Sora2 excels at creating diverse content including marketing videos, social media content, educational materials, artistic projects, product demonstrations, storytelling sequences, and professional presentations. It handles both text-to-video (describe your vision) and image-to-video (animate your photos) creation methods."
+      },
+      "6": {
+        "question": "How do I get the best results from Sora2?",
+        "answer": "For optimal results: write detailed, specific prompts describing subjects, actions, lighting, and camera movements; use high-quality, well-lit source images; be clear about the style you want (cinematic, artistic, realistic); specify important details like clothing, environment, and mood; experiment with different prompt variations to find what works best for your vision."
+      },
+      "7": {
+        "question": "Is my content secure and private with Sora2?",
+        "answer": "Absolutely. All your prompts, uploaded images, and generated videos are encrypted and completely private. We never share your content with third parties or use it for training purposes without explicit permission."
+      },
+      "8": {
+        "question": "Can Sora2 maintain character consistency across the entire video?",
+        "answer": "Yes! One of Sora2's most impressive features is perfect character consistency. Whether generating from text or images, the same person, object, or character maintains identical appearance, clothing, and features throughout the entire 10-second video, solving a major challenge that other AI video generators struggle with."
+      }
+    }
+  },
+  "Footer": {
+    "brand": "Sora2",
+    "brandDescription": "Revolutionary AI video generation powered by OpenAI technology.",
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "api": "API",
+      "docs": "Documentation"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    },
+    "copyright": "© 2025 Sora2. All rights reserved.",
+    "social": {
+      "twitter": "Twitter",
+      "discord": "Discord",
+      "github": "GitHub"
+    }
+  },
+  "VideoGenerator": {
+    "tabs": {
+      "textToVideo": "Text-to-Video",
+      "imageToVideo": "Image-to-Video"
+    },
+    "history": "History",
+    "prompt": {
+      "label": "Prompt",
+      "placeholder": "Describe your video scene, e.g., 'A cute kitten playing in a garden...'"
+    },
+    "generate": "Generate Video",
+    "upload": {
+      "label": "Upload Image",
+      "help": "Click to upload or drag and drop",
+      "hint": "PNG, JPG up to 10MB"
+    },
+    "promptOptional": {
+      "label": "Prompt (Optional)",
+      "placeholder": "Describe the motion or action..."
+    },
+    "preview": {
+      "label": "Preview",
+      "empty": "Your generated video will appear here"
+    }
+  },
+  "PricingSection": {
+    "title": "Pricing Plans",
+    "description": "Subscribe monthly or purchase one-time credit packs, flexibly tailored to your creative needs.",
+    "tag": { "popular": "Most Popular" },
+    "perMonth": "/ month",
+    "includes": "Includes:",
+    "cta": "Get Started",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "price": "$19.9",
+        "description": "For light creators, affordable monthly access.",
+        "credits": "2,500 credits per month",
+        "videos": "Approx. 75 videos/month"
+      },
+      "basic": {
+        "name": "Basic",
+        "price": "$49.9",
+        "description": "Entry-level creation, best value choice.",
+        "credits": "7,500 credits per month",
+        "videos": "Approx. 187 videos/month"
+      },
+      "pro": {
+        "name": "Pro",
+        "price": "$99.9",
+        "description": "Advanced creation, with higher quota and performance.",
+        "credits": "18,000 credits per month",
+        "videos": "Approx. 450 videos/month"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "$199.9",
+        "description": "Large-scale creation, ideal for teams.",
+        "credits": "40,000 credits per month",
+        "videos": "Approx. 1000 videos/month"
+      }
+    }
+  },
+  "Test": {
+    "message": "This is English content - Language switch is working!"
+  }
+  ,
+  "LegalPages": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "We respect your privacy and explain how we collect, use, and protect your information.",
+      "dataWeCollect": { "title": "Information We Collect", "desc": "Account details, usage logs, payment records (via providers), and content you upload." },
+      "howWeUse": { "title": "How We Use Information", "desc": "Provide and improve services, prevent abuse, comply with legal obligations." },
+      "sharing": { "title": "Sharing & Disclosure", "desc": "We do not sell data. We only share with trusted processors when necessary and lawful." },
+      "security": { "title": "Security", "desc": "We implement technical and organizational measures to protect your data." },
+      "rights": { "title": "Your Rights", "desc": "You may request access, correction, deletion, or portability subject to law." },
+      "contact": { "title": "Contact", "desc": "For privacy requests, please contact us using the methods on the Contact page." }
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "intro": "These terms govern the use of our services. By using the site, you agree to them.",
+      "use": { "title": "Acceptable Use", "desc": "No illegal, harmful, infringing, or misleading activities. We may suspend for violations." },
+      "account": { "title": "Accounts", "desc": "Keep credentials secure and accurate; you are responsible for activities under your account." },
+      "billing": { "title": "Billing", "desc": "Prices and billing cycles are shown on the site. Taxes may apply." },
+      "prohibited": { "title": "Prohibited Content", "desc": "No deepfakes for harm, adult content, incitement, illegal products, or IP infringement." },
+      "ip": { "title": "Intellectual Property", "desc": "You retain rights to your content; you grant us necessary rights to provide the service." },
+      "limitation": { "title": "Disclaimers & Limitation", "desc": "Service is provided as-is; to the extent allowed by law, our liability is limited." }
+    },
+    "refund": {
+      "title": "Refund Policy",
+      "intro": "We aim for fair refunds. Please read eligibility and process before purchasing.",
+      "eligibility": { "title": "Eligibility", "desc": "Refunds may be granted for duplicate charges or unused credits within 7 days." },
+      "process": { "title": "Process", "desc": "Submit a request with order details. We review and respond within 5 business days." },
+      "timing": { "title": "Timing", "desc": "Approved refunds are issued to the original payment method; timelines depend on provider." },
+      "contact": { "title": "Contact", "desc": "If you have questions, contact us through the Contact page before filing a chargeback." }
+    }
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "intro": "Reach out for support, billing, or legal inquiries.",
+    "email": { "title": "Email", "desc": "Support: support@example.com (replace with your official address)." },
+    "support": { "title": "Support", "desc": "We aim to respond within 2 business days for normal requests." },
+    "company": { "title": "Company Info", "desc": "If applicable, list your registered business name, address, and tax ID." }
+  }
+}
